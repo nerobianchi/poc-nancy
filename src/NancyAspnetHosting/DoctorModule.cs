@@ -1,6 +1,6 @@
 ﻿#region licence
 
-// <copyright file="DoctorModule.cs" company="Ciceksepeti">
+// <copyright file="DoctorModule.cs" company="nerobianchi">
 // </copyright>
 // <summary>
 // 	Project Name:	NancyAspnetHosting
