@@ -1,1 +1,0 @@
-D:\erdem.ozdemir\src\mine\poc-nancy\src\NancySelfHosting\bin\Debug\NancySelfHosting.exe.config
